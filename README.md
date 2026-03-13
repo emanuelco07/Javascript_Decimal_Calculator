@@ -4,7 +4,7 @@ A clean, responsive, and functional calculator web application built using moder
 
 ## Preview
 
-![Calculator Demonstration](path-to-your-gif.gif)
+![Calculator Demonstration](test_calculator.gif)
 
 ## Description
 
