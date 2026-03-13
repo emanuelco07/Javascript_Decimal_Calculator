@@ -64,3 +64,15 @@ button:active {
 .operator_btn:active {
     background-color: hsl(160, 100%, 40%);
 }
+
+.equal_btn {
+    background-color: hsl(225, 73%, 60%);
+}
+
+.equal_btn:hover {
+    background-color: hsl(225, 73%, 50%);
+}
+
+.equal_btn:active {
+    background-color: hsl(225, 73%, 40%);
+}
